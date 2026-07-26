@@ -15,6 +15,6 @@
 
 ## 📫 Vamos nos conectar
 
-- 💼 LinkedIn: https://linkedin.com/in/seuusuario
-- 📧 E-mail: seuemail@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/matheusricardopb/
+- 📧 E-mail: matheu_ric99@hotmail.com
 ```
