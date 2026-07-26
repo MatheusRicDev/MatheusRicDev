@@ -7,11 +7,29 @@
 
 🎓 Formado pela **Kenzie Academy Brasil**, onde concluí um bootcamp intensivo de 1 ano em Desenvolvimento Full Stack.
 
+---
+
 ## 🚀 Tecnologias
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode" />
+</p>
 
-## 📫 Vamos nos conectar
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/matheusricardopb/
 - 📧 E-mail: matheu_ric99@hotmail.com
