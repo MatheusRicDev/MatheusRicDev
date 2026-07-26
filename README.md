@@ -25,6 +25,12 @@
 
 ---
 
+## 🐍 Minhas contribuições
+
+<p align="center">
+  <img src="https://github.com/MatheusRicDev/MatheusRicDev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ## 📊 GitHub Stats
 
 <div align="center">
