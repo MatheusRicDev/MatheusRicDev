@@ -1,16 +1,20 @@
-## Hi there 👋
+```md
+# Olá, eu sou o Matheus! 👋
 
-<!--
-**MatheusRicDev/MatheusRicDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack apaixonado por desenvolvimento web e tecnologia.
 
-Here are some ideas to get you started:
+🚀 Sempre estudando e buscando evoluir, criando aplicações modernas, escaláveis e com foco na melhor experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Formado pela **Kenzie Academy Brasil**, onde concluí um bootcamp intensivo de 1 ano em Desenvolvimento Full Stack.
+
+## 🚀 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs" />
+</p>
+
+## 📫 Vamos nos conectar
+
+- 💼 LinkedIn: https://linkedin.com/in/seuusuario
+- 📧 E-mail: seuemail@email.com
+```
