@@ -1,10 +1,20 @@
-# Olá, eu sou o Matheus! 👋
+```md
+<h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
-💻 Desenvolvedor Full Stack apaixonado por desenvolvimento web e tecnologia.
+<p align="center">
+  💻 Desenvolvedor Full Stack apaixonado por desenvolvimento web e tecnologia.
+  <br>
+  🚀 Sempre estudando e evoluindo para criar aplicações modernas e escaláveis.
+</p>
 
-🚀 Sempre estudando e buscando evoluir, criando aplicações modernas, escaláveis e com foco na melhor experiência do usuário.
+---
 
-🎓 Formado pela **Kenzie Academy Brasil**, onde concluí um bootcamp intensivo de 1 ano em Desenvolvimento Full Stack.
+## 👨‍💻 Sobre mim
+
+- 🎓 Formado pela **Kenzie Academy Brasil** (Bootcamp Full Stack - 1 ano)
+- 🌱 Estudando constantemente novas tecnologias
+- 💡 Apaixonado por desenvolvimento web
+- 🎯 Focado em Front-end e Back-end
 
 ---
 
@@ -20,9 +30,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusRicDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRicDev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -30,5 +40,13 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/seuusuario
-- 📧 E-mail: seuemail@email.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:SEUEMAIL@email.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+```
