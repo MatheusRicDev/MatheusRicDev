@@ -1,4 +1,3 @@
-```md
 # Olá, eu sou o Matheus! 👋
 
 💻 Desenvolvedor Full Stack apaixonado por desenvolvimento web e tecnologia.
@@ -21,9 +20,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight" />
 
 </div>
 
@@ -31,6 +30,5 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/matheusricardopb/
-- 📧 E-mail: matheu_ric99@hotmail.com
-```
+- 💼 LinkedIn: https://linkedin.com/in/seuusuario
+- 📧 E-mail: seuemail@email.com
