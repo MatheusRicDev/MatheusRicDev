@@ -9,9 +9,7 @@
 
 ## 🚀 Tecnologias
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs" />
 
 ## 📫 Vamos nos conectar
 
