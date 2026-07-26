@@ -40,11 +40,11 @@
 ## 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/matheusricardopb/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:SEUEMAIL@email.com">
+  <a href="mailto:matheu_ric99@hotmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
